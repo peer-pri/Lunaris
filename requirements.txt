@@ -1,0 +1,6 @@
+requests
+appdirs
+customtkinter
+pillow
+geocoder
+uuid
