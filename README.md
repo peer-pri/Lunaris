@@ -8,7 +8,7 @@ Lunaris is a program to create simple Lua UI's by dragging and dropping elements
 - Unpack the .zip File
 - Go with Cmd to the folder Lunaris-main
 - Run following command:
-      - pip install -r requirements.txt
+&nbsp;&nbsp;&nbsp;&nbsp;- pip install -r requirements.txt
 - Run the Lunaris-Beta.exe file
 - Enjoy!
 
