@@ -1,5 +1,8 @@
 # Lunaris
-Lunaris is a program to create simple Lua UI's by dragging and dropping elements. In addition to that you are able to add code functions to buttons, toggles, sliders and much more. 
+Lunaris has many features for different things:
+- Lua-UI Builder
+- Aim-Bot for all games (Soon)
+- Chat (Soon)
 
 # Usage
 - Install Python: https://www.python.org/ftp/python/3.12.0/python-3.12.0-amd64.exe
